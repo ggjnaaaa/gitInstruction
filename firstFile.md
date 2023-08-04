@@ -119,12 +119,12 @@ git config --global user.email ваша почта@example.com
 
 * `git checkout идентификатор` - переход к нужному коммиту. Не обязательно вводить весь идентификатор, достаточно первых четырёх чисел.
 
-    Вывод git checkout идентификатор:
+    Вывод git checkout идентификатор в терминал:
 
-
+    ![git checkout с идентификатором](image-12.png)
 
 * `git checkout master` - переход к актуальному состоянию.
 
-    Вывод git checkout master:
+    Вывод git checkout master в терминал:
 
-    
+    ![git checkout master](image-13.png)

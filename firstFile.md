@@ -1,3 +1,4 @@
+![LogoGit](Git-Logo-2Color.png)
 # Работа с гит (Git) и гитхаб (GitHub)
 
 ## 1. Проверка наличия установленного Git

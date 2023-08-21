@@ -131,3 +131,4 @@ git config --global user.email ваша почта@example.com
 
 ## 9. Создание веток в Git
 
+`git branch <имя новой ветки>` - создание новой ветки.

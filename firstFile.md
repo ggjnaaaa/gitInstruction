@@ -193,3 +193,5 @@ git config --global user.email ваша почта@example.com
 Принудительное удаление ветки:
 
 ![Alt text](image-24.png)
+
+Создание конфликта (открыта ветка conflict)

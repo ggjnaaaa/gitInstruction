@@ -194,4 +194,4 @@ git config --global user.email ваша почта@example.com
 
 ![Alt text](image-24.png)
 
-Создание конфликта (открыта ветка conflict)
+Создание конфликта 2 (открыта ветка conflict)

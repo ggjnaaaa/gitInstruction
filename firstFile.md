@@ -162,6 +162,13 @@ git config --global user.email ваша почта@example.com
 
 ![Ошибка](image-18.png)
 
+VSCode когда произошел конфликт:
+
+![конфликт в VSCode](image-25.png)
+
+Для разрешения конфликта в VSCode есть 4 кнопки над зелёной областью: 
+"Accept Current Change" (сохраняет то, что написано в активной ветке), "Accept Incoming Change" (сохраняет то, что написано в ветке для объединения), "Accept Both Changes", "Compare Changes".
+
 Сообщение, если слияние прошло успешно:
 
 ![Успешное слияние](image-19.png)
